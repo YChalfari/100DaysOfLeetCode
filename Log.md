@@ -15,3 +15,9 @@
 - **Exercise:** 09. Palindrome Number
 - **Provided Explanation:** No
 - [Link to File](/Exercises/9.PalindromeNumber.js)
+
+### 04/12 - Tuesday
+
+- **Exercise:**13. Roman To Integer
+- **Provided Explanation:** Yes
+- [Link to File](/Exercises/13.RomanNumerals.js)
