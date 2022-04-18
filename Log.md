@@ -24,6 +24,14 @@
 
 ### Day 5: 04/16 - Saturday
 
-- **Exercise:**14. Longest Common Prefix
+- **Days Skipped:** 4
+- **Exercise:** 14. Longest Common Prefix
 - **Provided Explanation:** Yes - short
 - [Link to File](/Exercises/14.LongestCommonPrefix.js)
+
+### Day 6: 04/18 - Monday
+
+- **Days Skipped:** 2
+- **Exercise:**15. Three Sum
+- **Provided Explanation:** Yes - short
+- [Link to File](/Exercises/15.3Sum.js)
