@@ -33,5 +33,12 @@
 
 - **Days Skipped:** 2
 - **Exercise:**15. Three Sum
-- **Provided Explanation:** Yes - short
+- **Provided Explanation:** Yes
+- [Link to File](/Exercises/15.3Sum.js)
+
+### Day 7: 04/19 - Tuesday
+
+- **Days Skipped:** 0
+- **Exercise:**28. Implement strStr() (needle in haystack)
+- **Provided Explanation:** No
 - [Link to File](/Exercises/15.3Sum.js)
